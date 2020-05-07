@@ -1,0 +1,13 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # the variable "args" is already defined
+    my_list = []  # your code here
+
+    print(str(my_list))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7988
+status: Solved
+record: -1
